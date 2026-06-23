@@ -5,8 +5,6 @@ This repository contains the Python emulator/experiments and the SystemVerilog R
 The project is divided into three main parts:
 
 * `python/` — Python emulator and experiment scripts
-* `rtl/` — SystemVerilog RTL hardware design files
-* `testbench/` — SystemVerilog testbench files
 
 Large datasets, Quartus generated folders, and ModelSim simulation output files are not included in this repository.
 
